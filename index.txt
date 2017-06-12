@@ -1,0 +1,3 @@
+<html>
+	<p>This is an index file for an SVN-to-GitHub code migration test.</p>
+</html>
