@@ -1,1 +1,1 @@
-This is a readme file for a SVN-to-GitHub source code migration test.
+This is a readme file for a SVN-to-GitHub source code migration test. And this is some added text.
